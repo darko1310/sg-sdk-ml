@@ -1,0 +1,12 @@
+[submodule "external/sg-sdk"]
+	path = external/sg-sdk
+	url = https://github.com/sg-wireless/sg-sdk.git
+[submodule "external/flatbuffers"]
+	path = external/flatbuffers
+	url = https://github.com/google/flatbuffers
+[submodule "external/gemmlowp"]
+	path = external/gemmlowp
+	url = https://github.com/google/gemmlowp
+[submodule "external/ruy"]
+	path = external/ruy
+	url = https://github.com/google/ruy
